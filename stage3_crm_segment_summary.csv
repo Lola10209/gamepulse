@@ -1,0 +1,6 @@
+crm_segment,players,avg_sessions_day_7,avg_playtime_minutes,avg_levels_completed,total_revenue,day_30_retention,churn_rate
+At-Risk Early Drop-off Player,154,0.5,56.7,5.0,66.92,17.5,82.5
+Churned Player,582,4.7,123.7,8.9,368.37,0.0,100.0
+High-Value Retained Player,94,8.4,184.4,12.6,932.06,100.0,0.0
+Loyal Engaged Player,258,9.4,195.3,13.0,0.0,100.0,0.0
+New or Casual Player,112,2.9,97.2,7.7,0.0,100.0,0.0

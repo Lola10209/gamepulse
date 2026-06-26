@@ -1,0 +1,7 @@
+acquisition_channel,players,day_1_retention,day_7_retention,day_30_retention,churn_rate,revenue
+Organic,339,95.9,86.7,46.9,53.1,491.48
+App Store Search,111,95.5,88.3,45.0,55.0,101.85
+Facebook Ads,167,97.0,84.4,39.5,60.5,165.82
+Google Ads,243,93.8,86.4,38.3,61.7,345.6
+Influencer Campaign,149,91.9,76.5,36.2,63.8,169.76
+TikTok Ads,191,94.2,79.1,36.1,63.9,92.84

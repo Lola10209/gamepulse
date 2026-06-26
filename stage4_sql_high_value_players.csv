@@ -1,0 +1,21 @@
+player_id,country,device_type,acquisition_channel,sessions_day_7,total_playtime_minutes,levels_completed,in_app_purchases_gbp,crm_segment
+P00244,United States,iOS,Google Ads,13,250.5,17,49.99,High-Value Retained Player
+P00367,Germany,iOS,Facebook Ads,4,101.9,9,49.99,High-Value Retained Player
+P00417,United States,iOS,Organic,1,32.2,7,49.99,High-Value Retained Player
+P00421,United Kingdom,Android,Organic,21,429.1,27,49.99,High-Value Retained Player
+P00476,India,PC,Organic,5,92.5,9,49.99,High-Value Retained Player
+P00508,Germany,PC,Google Ads,18,399.5,25,49.99,High-Value Retained Player
+P00910,Brazil,Android,Influencer Campaign,5,145.6,10,49.99,High-Value Retained Player
+P00223,Canada,Android,App Store Search,3,84.0,7,19.99,High-Value Retained Player
+P00482,Canada,Android,Organic,8,135.5,11,19.99,High-Value Retained Player
+P00509,France,iOS,Google Ads,10,254.0,17,19.99,High-Value Retained Player
+P00531,India,Android,Influencer Campaign,12,270.7,17,19.99,High-Value Retained Player
+P00553,France,iOS,App Store Search,2,47.8,6,19.99,High-Value Retained Player
+P00740,Canada,Android,Google Ads,10,271.9,22,19.99,High-Value Retained Player
+P00929,United Kingdom,iOS,TikTok Ads,10,211.5,13,19.99,High-Value Retained Player
+P01008,United States,iOS,Organic,9,207.0,13,19.99,High-Value Retained Player
+P01134,Japan,iOS,TikTok Ads,7,149.6,11,19.99,High-Value Retained Player
+P00014,Brazil,Android,Influencer Campaign,12,293.8,22,9.99,High-Value Retained Player
+P00070,Canada,Android,Organic,18,307.5,20,9.99,High-Value Retained Player
+P00133,Canada,iOS,Organic,11,242.7,14,9.99,High-Value Retained Player
+P00190,United Kingdom,iOS,Organic,2,85.1,7,9.99,High-Value Retained Player

@@ -1,0 +1,21 @@
+player_id,country,device_type,acquisition_channel,sessions_day_1,sessions_day_7,total_playtime_minutes,levels_completed,crm_segment
+P00318,United Kingdom,iOS,TikTok Ads,5,1,89.8,7,At-Risk Early Drop-off Player
+P00044,Japan,Android,Facebook Ads,2,0,89.6,5,At-Risk Early Drop-off Player
+P00258,Nigeria,Android,TikTok Ads,1,0,89.5,9,At-Risk Early Drop-off Player
+P00661,United States,Android,Organic,4,1,89.4,6,At-Risk Early Drop-off Player
+P00291,United States,Android,TikTok Ads,3,0,89.2,8,At-Risk Early Drop-off Player
+P00734,Canada,iOS,Google Ads,2,1,88.7,7,At-Risk Early Drop-off Player
+P01164,United States,iOS,Influencer Campaign,3,1,87.7,9,At-Risk Early Drop-off Player
+P00528,United States,iOS,TikTok Ads,5,0,87.6,7,At-Risk Early Drop-off Player
+P00652,France,Android,Facebook Ads,2,1,87.1,7,At-Risk Early Drop-off Player
+P00124,United States,Android,TikTok Ads,3,1,86.6,9,At-Risk Early Drop-off Player
+P00881,United States,iOS,Organic,2,0,86.0,4,At-Risk Early Drop-off Player
+P00908,United Kingdom,iOS,Influencer Campaign,7,1,85.9,5,At-Risk Early Drop-off Player
+P00267,United Kingdom,iOS,TikTok Ads,2,1,85.8,6,At-Risk Early Drop-off Player
+P00391,France,iOS,Google Ads,5,0,84.8,8,At-Risk Early Drop-off Player
+P00402,India,iOS,TikTok Ads,1,0,84.8,6,At-Risk Early Drop-off Player
+P00567,Nigeria,Android,Organic,3,0,84.7,7,At-Risk Early Drop-off Player
+P00690,United Kingdom,iOS,Organic,5,0,83.9,8,At-Risk Early Drop-off Player
+P00439,Germany,PC,Organic,4,1,82.6,7,At-Risk Early Drop-off Player
+P00320,Germany,iOS,TikTok Ads,2,1,82.1,6,At-Risk Early Drop-off Player
+P00250,Brazil,PC,Influencer Campaign,1,1,81.7,11,At-Risk Early Drop-off Player
